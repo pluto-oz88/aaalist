@@ -185,10 +185,10 @@
         <th width="18%">
           <h2 align="center">WWW</h2>
         </th>
-        <th width="16%"><a href="http://1502.sytes.net">
-            <h3>1502</h3>
+        <th width="16%"><a href="http://192.168.0.229:8848">
+            <h3>Prepros</h3>
             <div class="tit1">
-              <h4>SYTES.NET</h4>
+              <h4>output</h4>
             </div>
           </a>
         </th>
